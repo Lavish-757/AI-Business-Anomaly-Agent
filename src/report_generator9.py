@@ -87,14 +87,8 @@ if __name__ == "__main__":
         index=False
     )
 
-    print(
-        "Anomaly report generated successfully."
-    )
+    print("Anomaly report generated successfully.")
 
-    print(
-        f"Total anomalies: {len(report_df)}"
-    )
+    print(f"Total anomalies: {len(report_df)}")
 
-    print(
-        "Saved to: reports/anomaly_report.csv"
-    )
+    print("Saved to: reports/anomaly_report.csv")

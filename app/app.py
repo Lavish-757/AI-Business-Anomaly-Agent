@@ -217,6 +217,4 @@ if not filtered_df.empty:
 
 else:
 
-    st.info(
-        "No anomalies match the selected filters."
-    )
+    st.info("No anomalies match the selected filters.")

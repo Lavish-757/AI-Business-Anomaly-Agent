@@ -41,3 +41,4 @@ if __name__ == "__main__":
 
     print("First 5 rows:")
     print(df.head())
+    

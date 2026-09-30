@@ -67,11 +67,7 @@ if __name__ == "__main__":
 
     print("Monitoring completed successfully.")
 
-    print(
-        f"Rows processed: {len(monitoring_df)}"
-    )
+    print(f"Rows processed: {len(monitoring_df)}")
 
-    print(
-        "Saved to: reports/monitoring_data.csv"
-    )
+    print("Saved to: reports/monitoring_data.csv")
     

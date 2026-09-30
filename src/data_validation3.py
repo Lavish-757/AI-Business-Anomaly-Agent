@@ -46,3 +46,4 @@ if __name__ == "__main__":
     df["Date"] = pd.to_datetime(df["Date"])
 
     validate_data(df)
+    
