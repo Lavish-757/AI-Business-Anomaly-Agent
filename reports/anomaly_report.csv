@@ -1,62 +1,61 @@
 Date,Metric,Actual_Value,Baseline,Change_Percent,Z_Score,Severity,Business_Context
-2026-06-10,Marketing_Cost,16182.0,17906.85714285714,-9.63238344449053,-2.088000031810838,Medium,No major cross-metric relationship was identified.
-2026-06-10,Refunds,3113.0,3565.4285714285716,-12.689318054331281,-2.557565434029655,Medium,No major cross-metric relationship was identified.
-2026-06-13,Revenue,109647.0,97094.28571428571,12.928375952682227,2.3331609338418486,Medium,No major cross-metric relationship was identified.
-2026-06-13,Refunds,4226.0,3477.1428571428573,21.536565324568606,3.5724807031909984,High,No major cross-metric relationship was identified.
-2026-06-14,Revenue,84334.0,99677.14285714286,-15.392839739731128,-2.358174719885795,Medium,No major cross-metric relationship was identified.
-2026-06-14,Conversion_Rate,4.34,3.8528571428571428,12.643678160919539,2.864366544394142,Medium,No major cross-metric relationship was identified.
-2026-06-14,Traffic,21556.0,25445.714285714286,-15.286323826633733,-2.767139045163883,Medium,No major cross-metric relationship was identified.
-2026-06-15,Revenue,115538.0,96863.71428571429,19.278927978337748,2.2452174455432865,Medium,No major cross-metric relationship was identified.
-2026-06-15,Conversion_Rate,4.51,3.947142857142857,14.259862468331521,2.4420445157266224,Medium,No major cross-metric relationship was identified.
-2026-06-15,Refunds,4577.0,3662.1428571428573,24.98147064560171,2.5247730032652487,Medium,No major cross-metric relationship was identified.
-2026-06-17,Orders,1151.0,966.0,19.151138716356108,4.100661830535578,Critical,No major cross-metric relationship was identified.
-2026-06-17,Conversion_Rate,4.97,4.0614285714285705,22.370735138937764,2.8140123769065126,Medium,No major cross-metric relationship was identified.
-2026-06-21,Orders,846.0,1019.2857142857143,-17.00070077084794,-2.6243651354655038,Medium,No major cross-metric relationship was identified.
-2026-06-21,Conversion_Rate,3.06,4.412857142857143,-30.657170605373906,-4.525716047652182,Critical,No major cross-metric relationship was identified.
-2026-06-21,Traffic,27638.0,23143.714285714286,19.419033862943344,3.29225441253584,High,No major cross-metric relationship was identified.
-2026-06-23,Refunds,2438.0,3516.4285714285716,-30.668291692057693,-1.880741183674909,High,No major cross-metric relationship was identified.
-2026-06-24,Revenue,127840.0,99080.0,29.027048849414616,2.9061608512361903,Medium,No major cross-metric relationship was identified.
-2026-06-24,Orders,1197.0,1004.1428571428571,19.20614596670935,2.1767380510923,Medium,No major cross-metric relationship was identified.
-2026-06-24,Conversion_Rate,5.34,4.122857142857143,29.521829521829524,2.0847565888435025,Medium,No major cross-metric relationship was identified.
-2026-06-25,Marketing_Cost,16347.0,18364.14285714286,-10.984138344133374,-2.2275311121608654,Medium,No major cross-metric relationship was identified.
-2026-06-28,Refunds,4438.0,3188.714285714286,39.178352224362705,3.116101739518522,High,No major cross-metric relationship was identified.
-2026-06-30,Marketing_Cost,22623.0,18234.285714285714,24.068473832654345,3.7892533226318155,High,No major cross-metric relationship was identified.
-2026-07-02,Conversion_Rate,3.27,4.195714285714286,-22.06332992849847,-2.7006408530904276,Medium,No major cross-metric relationship was identified.
-2026-07-02,Traffic,28334.0,24305.0,16.576836041966672,4.4195364774651535,Critical,No major cross-metric relationship was identified.
-2026-07-06,Conversion_Rate,5.15,4.12,25.000000000000007,2.2310614700357116,Medium,No major cross-metric relationship was identified.
-2026-07-11,Conversion_Rate,3.33,4.1814285714285715,-20.36214554151008,-1.5924126158315135,Medium,No major cross-metric relationship was identified.
-2026-07-11,Marketing_Cost,20778.0,17945.714285714286,15.782518707212223,4.108061191560026,Critical,No major cross-metric relationship was identified.
-2026-07-11,Refunds,2703.0,3736.1428571428573,-27.652659350743704,-1.6230183833675855,Medium,No major cross-metric relationship was identified.
-2026-07-16,Orders,1124.0,961.1428571428571,16.944114149821647,2.776633585519359,Medium,No major cross-metric relationship was identified.
-2026-07-16,Conversion_Rate,4.74,3.947142857142857,20.086862106406087,2.0916111633970695,Medium,No major cross-metric relationship was identified.
-2026-07-20,Revenue,89262.0,103716.0,-13.936133287053106,-2.0551238617228607,Medium,No major cross-metric relationship was identified.
-2026-07-23,Revenue,81395.0,103323.57142857143,-21.223203113658208,-2.261971722075574,Medium,No major cross-metric relationship was identified.
-2026-07-25,Marketing_Cost,20573.0,17617.428571428572,16.776406480595508,3.8703774734528045,High,No major cross-metric relationship was identified.
-2026-07-27,Marketing_Cost,15570.0,18401.0,-15.385033422096624,-2.423227111330804,Medium,No major cross-metric relationship was identified.
-2026-07-30,Conversion_Rate,2.681,3.8428571428571425,-30.234200743494416,-7.569922346702047,Critical,No major cross-metric relationship was identified.
-2026-07-30,Traffic,38796.0,25277.571428571428,53.479934216103494,9.825111517041199,Critical,No major cross-metric relationship was identified.
-2026-08-03,Conversion_Rate,4.46,3.8230000000000004,16.662307088673803,1.1759861944206256,Low,No major cross-metric relationship was identified.
-2026-08-05,Orders,943.0,1021.8571428571429,-7.7170418006430905,-2.0321511994952868,Medium,No major cross-metric relationship was identified.
-2026-08-06,Orders,1149.0,1007.7142857142857,14.020413949532184,2.984380912824791,Medium,No major cross-metric relationship was identified.
-2026-08-06,Conversion_Rate,4.62,3.851571428571429,19.951040391676862,1.2628497939889394,Low,No major cross-metric relationship was identified.
-2026-08-06,Refunds,3018.0,3973.0,-24.037251447269067,-2.2399970415840262,Medium,No major cross-metric relationship was identified.
-2026-08-08,Marketing_Cost,20119.0,17758.85714285714,13.289947873093515,2.8099896345874966,Medium,No major cross-metric relationship was identified.
-2026-08-09,Revenue,135744.0,99565.0,36.33706623813589,5.255029694095111,Critical,No major cross-metric relationship was identified.
-2026-08-09,Refunds,2621.0,3751.285714285714,-30.1306218820214,-2.752758818341959,High,No major cross-metric relationship was identified.
-2026-08-11,Refunds,2480.0,3489.4285714285716,-28.928191271595843,-1.6218216684060776,Medium,No major cross-metric relationship was identified.
-2026-08-13,Conversion_Rate,3.36,4.034285714285714,-16.71388101983002,-1.552530785985688,Low,No major cross-metric relationship was identified.
-2026-08-14,Conversion_Rate,5.31,3.8542857142857136,37.76871756856932,3.536574567624477,High,No major cross-metric relationship was identified.
-2026-08-14,Traffic,20284.0,26066.714285714286,-22.184285377629926,-3.9153841345639178,High,No major cross-metric relationship was identified.
-2026-08-14,Refunds,4251.0,3300.714285714286,28.790305128760007,1.4932000052644117,Medium,No major cross-metric relationship was identified.
-2026-08-16,Refunds,4314.0,3288.714285714286,31.17588288953564,1.568573111299905,High,No major cross-metric relationship was identified.
-2026-08-17,Conversion_Rate,4.71,4.087142857142857,15.239426773855294,0.9685079376421835,Low,No major cross-metric relationship was identified.
-2026-08-17,Refunds,5620.0,3530.5714285714284,59.181030994577974,3.0810327800496236,Critical,No major cross-metric relationship was identified.
-2026-08-18,Refunds,2648.0,3918.0,-32.414497192445126,-1.3045034020212898,High,No major cross-metric relationship was identified.
-2026-08-21,Conversion_Rate,3.65,4.317142857142858,-15.453342157511592,-1.219269892950589,Low,No major cross-metric relationship was identified.
-2026-08-22,Marketing_Cost,14110.0,18052.85714285714,-21.840626731027925,-4.0312440145669415,Critical,No major cross-metric relationship was identified.
-2026-08-22,Refunds,2466.0,3823.8571428571427,-35.510143086636525,-1.4602600001791801,High,No major cross-metric relationship was identified.
-2026-08-24,Revenue,61228.0,99190.85714285714,-38.2725366393216,-6.565546378395987,Critical,No major cross-metric relationship was identified.
-2026-08-24,Orders,613.0,993.8571428571429,-38.32111542331465,-4.858431829256046,Critical,No major cross-metric relationship was identified.
-2026-08-24,Traffic,12950.0,24717.714285714286,-47.60842426484187,-6.278679200260608,Critical,No major cross-metric relationship was identified.
-2026-08-29,Orders,1218.0,970.8571428571429,25.456150676868745,1.5001660454760835,Medium,No major cross-metric relationship was identified.
-
+2026-06-10,Marketing_Cost,16182.0,17906.85714285714,-9.63238344449053,-2.088000031810838,Medium,"Marketing cost decreased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-06-10,Refunds,3113.0,3565.4285714285716,-12.689318054331281,-2.557565434029655,Medium,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-06-13,Revenue,109647.0,97094.28571428571,12.928375952682227,2.3331609338418486,Medium,Revenue increased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-06-13,Refunds,4226.0,3477.1428571428573,21.536565324568606,3.5724807031909984,High,"Refunds increased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-06-14,Revenue,84334.0,99677.14285714286,-15.392839739731128,-2.358174719885795,Medium,Revenue decreased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-06-14,Conversion_Rate,4.34,3.8528571428571428,12.643678160919539,2.864366544394142,Medium,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-06-14,Traffic,21556.0,25445.714285714286,-15.286323826633733,-2.767139045163883,Medium,Traffic decreased significantly compared with its recent baseline. Review conversion rate and order volume to understand whether the traffic change is translating into business activity.
+2026-06-15,Revenue,115538.0,96863.71428571429,19.278927978337748,2.2452174455432865,Medium,Revenue increased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-06-15,Conversion_Rate,4.51,3.947142857142857,14.259862468331521,2.4420445157266224,Medium,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-06-15,Refunds,4577.0,3662.1428571428573,24.98147064560171,2.5247730032652487,Medium,"Refunds increased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-06-17,Orders,1151.0,966.0,19.151138716356108,4.100661830535578,Critical,Order volume increased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
+2026-06-17,Conversion_Rate,4.97,4.0614285714285705,22.370735138937764,2.8140123769065126,Medium,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-06-21,Orders,846.0,1019.2857142857143,-17.00070077084794,-2.6243651354655038,Medium,Order volume decreased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
+2026-06-21,Conversion_Rate,3.06,4.412857142857143,-30.657170605373906,-4.525716047652182,Critical,Conversion rate decreased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-06-21,Traffic,27638.0,23143.714285714286,19.419033862943344,3.29225441253584,High,Traffic increased significantly compared with its recent baseline. Review conversion rate and order volume to understand whether the traffic change is translating into business activity.
+2026-06-23,Refunds,2438.0,3516.4285714285716,-30.668291692057693,-1.880741183674909,High,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-06-24,Revenue,127840.0,99080.0,29.027048849414616,2.9061608512361903,Medium,Revenue increased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-06-24,Orders,1197.0,1004.1428571428571,19.20614596670935,2.1767380510923,Medium,Order volume increased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
+2026-06-24,Conversion_Rate,5.34,4.122857142857143,29.521829521829524,2.0847565888435025,Medium,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-06-25,Marketing_Cost,16347.0,18364.14285714286,-10.984138344133374,-2.2275311121608654,Medium,"Marketing cost decreased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-06-28,Refunds,4438.0,3188.714285714286,39.178352224362705,3.116101739518522,High,Refunds increased significantly and may require investigation.
+2026-06-30,Marketing_Cost,22623.0,18234.285714285714,24.068473832654345,3.7892533226318155,High,"Marketing cost increased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-07-02,Conversion_Rate,3.27,4.195714285714286,-22.06332992849847,-2.7006408530904276,Medium,Conversion rate decreased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-07-02,Traffic,28334.0,24305.0,16.576836041966672,4.4195364774651535,Critical,Traffic increased significantly compared with its recent baseline. Review conversion rate and order volume to understand whether the traffic change is translating into business activity.
+2026-07-06,Conversion_Rate,5.15,4.12,25.000000000000007,2.2310614700357116,Medium,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-07-11,Conversion_Rate,3.33,4.1814285714285715,-20.36214554151008,-1.5924126158315135,Medium,Conversion rate decreased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-07-11,Marketing_Cost,20778.0,17945.714285714286,15.782518707212223,4.108061191560026,Critical,"Marketing cost increased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-07-11,Refunds,2703.0,3736.1428571428573,-27.652659350743704,-1.6230183833675855,Medium,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-07-16,Orders,1124.0,961.1428571428571,16.944114149821647,2.776633585519359,Medium,Order volume increased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
+2026-07-16,Conversion_Rate,4.74,3.947142857142857,20.086862106406087,2.0916111633970695,Medium,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-07-20,Revenue,89262.0,103716.0,-13.936133287053106,-2.0551238617228607,Medium,Revenue decreased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-07-23,Revenue,81395.0,103323.57142857143,-21.223203113658208,-2.261971722075574,Medium,Revenue decreased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-07-25,Marketing_Cost,20573.0,17617.428571428572,16.776406480595508,3.8703774734528045,High,"Marketing cost increased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-07-27,Marketing_Cost,15570.0,18401.0,-15.385033422096624,-2.423227111330804,Medium,"Marketing cost decreased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-07-30,Conversion_Rate,2.681,3.8428571428571425,-30.234200743494416,-7.569922346702047,Critical,"Traffic increased sharply while conversion rate declined, indicating that the additional traffic was not converting at the recent rate."
+2026-07-30,Traffic,38796.0,25277.571428571428,53.479934216103494,9.825111517041199,Critical,"Traffic increased sharply while conversion rate declined, indicating that the additional traffic was not converting at the recent rate."
+2026-08-03,Conversion_Rate,4.46,3.8230000000000004,16.662307088673803,1.1759861944206256,Low,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-08-05,Orders,943.0,1021.8571428571429,-7.7170418006430905,-2.0321511994952868,Medium,Order volume decreased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
+2026-08-06,Orders,1149.0,1007.7142857142857,14.020413949532184,2.984380912824791,Medium,Order volume increased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
+2026-08-06,Conversion_Rate,4.62,3.851571428571429,19.951040391676862,1.2628497939889394,Low,Conversion rate increased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-08-06,Refunds,3018.0,3973.0,-24.037251447269067,-2.2399970415840262,Medium,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-08-08,Marketing_Cost,20119.0,17758.85714285714,13.289947873093515,2.8099896345874966,Medium,"Marketing cost increased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-08-09,Revenue,135744.0,99565.0,36.33706623813589,5.255029694095111,Critical,Revenue increased significantly compared with its recent baseline. Review order volume and conversion rate to understand the movement.
+2026-08-09,Refunds,2621.0,3751.285714285714,-30.1306218820214,-2.752758818341959,High,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-08-11,Refunds,2480.0,3489.4285714285716,-28.928191271595843,-1.6218216684060776,Medium,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-08-13,Conversion_Rate,3.36,4.034285714285714,-16.71388101983002,-1.552530785985688,Low,Conversion rate decreased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-08-14,Conversion_Rate,5.31,3.8542857142857136,37.76871756856932,3.536574567624477,High,"Traffic declined significantly while conversion rate improved, suggesting that a smaller share of visitors may have been more likely to convert."
+2026-08-14,Traffic,20284.0,26066.714285714286,-22.184285377629926,-3.9153841345639178,High,"Traffic declined significantly while conversion rate improved, suggesting that a smaller share of visitors may have been more likely to convert."
+2026-08-14,Refunds,4251.0,3300.714285714286,28.790305128760007,1.4932000052644117,Medium,"Traffic declined significantly while conversion rate improved, suggesting that a smaller share of visitors may have been more likely to convert."
+2026-08-16,Refunds,4314.0,3288.714285714286,31.17588288953564,1.568573111299905,High,Refunds increased significantly and may require investigation.
+2026-08-17,Conversion_Rate,4.71,4.087142857142857,15.239426773855294,0.9685079376421835,Low,Refunds increased significantly and may require investigation.
+2026-08-17,Refunds,5620.0,3530.5714285714284,59.181030994577974,3.0810327800496236,Critical,Refunds increased significantly and may require investigation.
+2026-08-18,Refunds,2648.0,3918.0,-32.414497192445126,-1.3045034020212898,High,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-08-21,Conversion_Rate,3.65,4.317142857142858,-15.453342157511592,-1.219269892950589,Low,Conversion rate decreased significantly compared with its recent baseline. Review traffic quality and customer behavior for potential changes.
+2026-08-22,Marketing_Cost,14110.0,18052.85714285714,-21.840626731027925,-4.0312440145669415,Critical,"Marketing cost decreased significantly compared with its recent baseline. Review campaign performance and related changes in traffic, orders, and revenue."
+2026-08-22,Refunds,2466.0,3823.8571428571427,-35.510143086636525,-1.4602600001791801,High,"Refunds decreased significantly compared with their recent baseline. Review product, order, and customer service issues for potential causes."
+2026-08-24,Revenue,61228.0,99190.85714285714,-38.2725366393216,-6.565546378395987,Critical,"Revenue declined alongside lower order volume, indicating reduced sales activity."
+2026-08-24,Orders,613.0,993.8571428571429,-38.32111542331465,-4.858431829256046,Critical,"Revenue declined alongside lower order volume, indicating reduced sales activity."
+2026-08-24,Traffic,12950.0,24717.714285714286,-47.60842426484187,-6.278679200260608,Critical,"Revenue declined alongside lower order volume, indicating reduced sales activity."
+2026-08-29,Orders,1218.0,970.8571428571429,25.456150676868745,1.5001660454760835,Medium,Order volume increased significantly compared with its recent baseline. Review traffic and conversion rate for potential contributing factors.
