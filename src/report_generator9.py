@@ -59,9 +59,22 @@ def generate_report(df):
                 })
 
     report_df = pd.DataFrame(report_rows)
-
+    
     if report_df.empty:
-        report_df["Business_Context"] = []
+
+        report_df = pd.DataFrame(
+            columns=[
+                "Date",
+                "Metric",
+                "Actual_Value",
+                "Baseline",
+                "Change_Percent",
+                "Z_Score",
+                "Severity",
+                "Business_Context"
+            ]
+        )
+
         return report_df
 
     # Add business context

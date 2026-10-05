@@ -69,6 +69,8 @@ def calculate_z_score(
         .shift(1)
     )
 
+    rolling_std = rolling_std.replace(0, pd.NA)
+
     z_score = (
         (df[metric] - rolling_mean)
         / rolling_std
